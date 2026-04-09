@@ -20,11 +20,11 @@ jobs:
 
           user: fengbanjiazhu
           template: classic
-          base: "header"
+          base: ""
 
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, yaml, json, xml, shaderlab, hlsl, glsl, c, c++, markdown
           plugin_languages_details: percentage
           plugin_languages_colors: github
-          plugin_languages_indepth: no
+          plugin_languages_indepth: yes

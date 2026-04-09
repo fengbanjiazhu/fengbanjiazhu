@@ -6,4 +6,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fengbanjiazhu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
+<!-- ![GitHub Metrics](./github-metrics.svg) -->
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fengbanjiazhu&theme=tokyonight" alt="mystreak"/>
