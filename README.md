@@ -4,10 +4,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fengbanjiazhu/fengbanjiazhu/output/github-contribution-grid-snake.svg">
 </div>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td height="100">
-      <img src="./img/Yahaha.png"/>
+    <td>
+      <img src="./img/Yahaha.png" height="100"/>
     </td>
     <td>
       <b>🥳 Yahaha! You found me!</b>
@@ -16,7 +16,6 @@
       <br><br>
       🌐 Learn more about me through my <a href="https://feixiang.com.au">page</a>
     </td>
-
   </tr>
 </table>
 
